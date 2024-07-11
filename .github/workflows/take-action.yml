@@ -1,10 +1,10 @@
 # .github/workflows/take.yml 
 name: Assign issue to contributor
 on: 
-  issue_comment:
+  issue_comment: ymusic.apk networkerror
 
-jobs:
-  assign:
+jobs: resetdefault
+  assign:ok
     name: Take an issue
     runs-on: ubuntu-latest
     steps:
